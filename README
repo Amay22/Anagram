@@ -1,3 +1,5 @@
-== RubyApplication2
+# Find Anagrams
 
-You should document your project here.
+Use the code to find Anagrams of any sequence of characters in the dictionary.
+
+NOTE: RakeFile needs to be modified.
